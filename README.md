@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm [Ali Saleh](https://www.linkedin.com/in/ali-saleh/), I'm a software engineer working mainly on data realated applications.
 
-- I'm currently part of the MLOps team @deliveryhero. I work alongside SRE teams to enable efficent deployment of ML applications.
+- I'm currently part of the P2020 monitoring team @google. I work as an SRE to provide uniform monitroing across google services.
 - I worked with several machine learning and big data projects over the last decade. 
 - I did symbian OS development for 3 month 🤓.
 - I'm a generalist who try to juggle all the tech we live in. 
